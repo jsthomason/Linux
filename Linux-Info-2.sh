@@ -6,9 +6,6 @@
 # John Thomason
 #
 
-# Trap Ctrl-C
-trap abort SIGINT
-
 # Vars
 pkg_search="x"
 file_search="x"
